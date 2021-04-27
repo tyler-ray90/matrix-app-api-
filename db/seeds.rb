@@ -11,4 +11,9 @@ Character.create([
 	{ name: "Trinity", description: "computer programmer", img_url: "https://en.wikipedia.org/wiki/Trinity_(The_Matrix)#/media/File:MatrixTrinity.jpg" },
 	{ name: "Morpheus", description: "neos mentor" , img_url: "https://en.wikipedia.org/wiki/Morpheus_(The_Matrix)#/media/File:Morpheus.jpg" },
 	{ name: "The Oracle", description: "Neos psychic"},
+
+])
+
+Vehicle.create([
+    { style: "Spaceship", name: "Nebuchadnezzar"}
 ])
